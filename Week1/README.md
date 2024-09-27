@@ -10,7 +10,8 @@ Hồi quy tuyến tính (linear regression) bằng cách sử dụng phương tr
   dự đoán thử:
   x1=150 x2 = 190
    y1 tính cân nặng x1 (tương tự y2)
-4. Hiển thị kết quả lên website
+3. Hiển thị kết quả lên website
+   
 • Chụp ảnh và dán kết quả tại đây.
 <img width="1523" alt="Ảnh màn hình 2024-09-27 lúc 11 08 45" src="https://github.com/user-attachments/assets/77df061e-e63b-423d-9bbf-9d7785ecce38">
-5. Đối với các bài toán có sự so sánh giữa 2 thuật toán thì sẽ dán kết quả dưới đây.
+4. Đối với các bài toán có sự so sánh giữa 2 thuật toán thì sẽ dán kết quả dưới đây.
