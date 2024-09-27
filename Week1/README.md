@@ -1,6 +1,8 @@
 1. Công nghệ sử dụng:
+   
 • Framework:numpy, pandas, matplotlib, io
 2. Thuật toán:
+
 Hồi quy tuyến tính (linear regression) bằng cách sử dụng phương trình chuẩn để dự đoán mối quan hệ giữa chiều cao và cân nặng
 • Giải thích (giải thích theo suy nghĩ của mình hiểu về thuật toán này hoạt động. Yêu cầu này ai làm được thì tốt).
    X là mảng numpy chưa danh sách chiều cao định dạng là 1 vector cột
@@ -10,7 +12,7 @@ Hồi quy tuyến tính (linear regression) bằng cách sử dụng phương tr
   dự đoán thử:
   x1=150 x2 = 190
    y1 tính cân nặng x1 (tương tự y2)
-3. Hiển thị kết quả lên website
+4. Hiển thị kết quả lên website
    
 • Chụp ảnh và dán kết quả tại đây.
 <img width="1523" alt="Ảnh màn hình 2024-09-27 lúc 11 08 45" src="https://github.com/user-attachments/assets/77df061e-e63b-423d-9bbf-9d7785ecce38">
