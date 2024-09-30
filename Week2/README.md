@@ -35,7 +35,7 @@ Mô thường được sử dụng cho các bài toán phân loại có đặc t
 
 **4. Đối với các bài toán có sự so sánh giữa 2 thuật toán thì sẽ dán kết quả dưới đây.**
 
-  - so sánh giữa hai mô hình Bernoulli Naive Bayes và Multinomial Naive Bayes 
+  - ** so sánh giữa hai mô hình Bernoulli Naive Bayes và Multinomial Naive Bayes **
   - <img width="361" alt="Ảnh màn hình 2024-09-30 lúc 10 14 41" src="https://github.com/user-attachments/assets/89c90b27-8a53-473d-84a9-3501c0bdd806">
   - Multinomial Naive Bayes có độ chính xác (accuracy), recall, và F1-score cao hơn so với Bernoulli Naive Bayes. Với tập dữ liệu này, Multinomial Naive Bayes có khả năng phân loại tốt hơn, đặc biệt là trong việc nhận diện 1 (True/positive).
   - Bernoulli Naive Bayes vượt trội ở chỉ số precision của 1 (True/positive) và có recall cao cho 0 (False/negative), nhưng bị hạn chế ở khả năng phát hiện các mẫu 1 với recall thấp.
