@@ -1,13 +1,13 @@
-**1.Công nghệ sử dụng:**
+**1. Công nghệ sử dụng:**
 • Framework:numpy, pandas, matplotlib, io, sklearn, Flask, 
 
 
 **2. Thuật toán:**
 
-Bernoulli Naive Bayes
+• Bernoulli Naive Bayes
 
 
-Multinomial Naive Bayes'
+• Multinomial Naive Bayes'
 
 **3. Hiển thị kết quả lên website**
 
