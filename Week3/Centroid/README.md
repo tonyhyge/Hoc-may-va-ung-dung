@@ -14,9 +14,9 @@ Khoảng cách euclid: tính khoảng cách giữa hai điểm trong không gian
 
 D là khoảng cách giữa hai điểm p và q.
 
-(p1, p1) là tọa độ của điểm p.
+(p1, p2) là tọa độ của điểm p.
 
-(q2, q2) là tọa độ của điểm q.
+(q1, q2) là tọa độ của điểm q.
 
 # 3. Hiển thị kết quả lên website
 
