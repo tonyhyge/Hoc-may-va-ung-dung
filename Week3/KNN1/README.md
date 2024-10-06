@@ -17,6 +17,7 @@ Có nhiều cách để tính khoảng cách giữa các điểm
 
 ---
 
+<img width="781" alt="Ảnh màn hình 2024-10-06 lúc 20 19 40" src="https://github.com/user-attachments/assets/303596ed-182f-4a56-b272-5ea3924ee25b">
 
 
 # 4. So sánh 2 thuật toán 
