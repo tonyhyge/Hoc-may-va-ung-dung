@@ -22,5 +22,8 @@ D là khoảng cách giữa hai điểm p và q.
 
 ---
 
+<img width="1429" alt="Ảnh màn hình 2024-10-06 lúc 19 36 18" src="https://github.com/user-attachments/assets/552ff745-2678-4673-975d-dfb37596e1c0">
+
+
 # 4. So sánh 2 thuật toán 
   
