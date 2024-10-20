@@ -18,11 +18,11 @@ Không yêu cầu dữ liệu chuẩn hóa.
 Có thể xử lý cả dữ liệu phân loại và hồi quy.
 Nhược điểm:
 
-Dễ bị overfitting (quá khớp) nếu cây quá sâu.
+Dễ bị overfitting nếu cây quá sâu.
 Nhạy cảm với sự thay đổi trong dữ liệu.
 
 ### Random Forest
-Random Forest là một tập hợp (ensemble) của nhiều cây quyết định. Nó tạo ra nhiều cây quyết định trên các mẫu dữ liệu khác nhau (bootstrap sampling) và kết hợp các dự đoán của chúng để cải thiện độ chính xác và giảm overfitting. Random Forest thường sử dụng phương pháp bỏ phiếu (voting) để đưa ra kết quả.
+Random Forest là một tập hợp  của nhiều cây quyết định. Nó tạo ra nhiều cây quyết định trên các mẫu dữ liệu khác nhau và kết hợp các dự đoán của chúng để cải thiện độ chính xác và giảm overfitting. Random Forest thường sử dụng phương pháp bỏ phiếu (voting) để đưa ra kết quả.
 
 Ưu điểm:
 
